@@ -8,7 +8,6 @@ Fazendo uma alteração
   <a href = "mailto: nightsword1111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/output/github-contribution-grid-snake.svg)
- 
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </center>
 </div>
