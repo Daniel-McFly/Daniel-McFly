@@ -1,4 +1,4 @@
-## Bem Vindo :funny:
+## Bem Vindo :funny_face:
 Olá, eu sou o Carlos Daniel, bem vindo a ao meu perfil Git. <br>
 Trabalho com Full Stack e gosto muito de programar, em breve trarei mais projetos para o git.
 ## Contato :iphone:
