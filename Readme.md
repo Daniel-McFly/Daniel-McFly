@@ -1,11 +1,11 @@
 ## Bem Vindo :grin:
 Olá, eu sou o Carlos Daniel, bem vindo a ao meu perfil Git. <br>
 Trabalho com Full Stack e gosto muito de programar, em breve trarei mais projetos para o git.
-## Skills :nerd_face:
+## Skills :man_technologist:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/php-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
