@@ -18,9 +18,8 @@ Trabalho com Full Stack e gosto muito de programar, em breve trarei mais projeto
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-   
-
 </p>
+
 ## Contato :iphone:
  <div> 
     <div align="center"> 
