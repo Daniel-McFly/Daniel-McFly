@@ -8,6 +8,6 @@ Em breve trarei meu Portfólio.
   <a href = "mailto: nightsword1111@gmail.com"><img src="https://img.shields.io/badge/gmail-3d3c3c?style=for-the-badge&logoHeig=40&logo=GMAIL&logoColor=red" float="right" height="30" target="_blank"></a>
   </div> 
  
-   ![Snake animation](https://github.com/Daniel-McFly/Daniel-McFly/blob/main/github-contribution-grid-snake.svg)
+   <!--![Snake animation](https://github.com/Daniel-McFly/Daniel-McFly/blob/main/github-contribution-grid-snake.svg)-->
 
 </div>
