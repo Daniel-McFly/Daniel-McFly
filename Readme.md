@@ -1,4 +1,5 @@
-Ola este projeto foi feito para estudar mais sobre o git, quem sabe o que vem? =)
+Olá,eu sou o Carlos Daniel, bem vindo a esta página Git. :)<br>
+este projeto foi feito para estudar mais sobre o git, quem sabe o que vem? =)
 Fazendo uma alteração
 
  <div> 
