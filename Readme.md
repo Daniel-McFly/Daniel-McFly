@@ -1,5 +1,5 @@
-Olá,eu sou o Carlos Daniel, bem vindo a esta página Git. :)<br>
-Em breve trarei meu Portfólio.
+Olá, eu sou o Carlos Daniel, bem vindo a esta página Git. <br>
+Trabalho com Full Stack e gosto muito de programar, em breve trarei mais projetos para o git.
 
  <div> 
     <div style = "float:right;"> 
@@ -8,6 +8,6 @@ Em breve trarei meu Portfólio.
   <a href = "mailto: nightsword1111@gmail.com"><img src="https://img.shields.io/badge/gmail-3d3c3c?style=for-the-badge&logoHeig=40&logo=GMAIL&logoColor=red" float="right" height="30" target="_blank"></a>
   </div> 
  
-   <!--![Snake animation](https://github.com/Daniel-McFly/Daniel-McFly/blob/main/github-contribution-grid-snake.svg)-->
+   <!--![Snake animation](https://github.com/Daniel-McFly/Daniel-McFly/blob/main/github-contribution-grid-snake.svg)--> 
 
 </div>
