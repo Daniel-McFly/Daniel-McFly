@@ -19,7 +19,8 @@ Trabalho com Full Stack e gosto muito de programar, em breve trarei mais projeto
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-McFly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-McFly&layout=compact&langs_count=7&theme=dracula"/>
 ## Contato :iphone:
  <div> 
     <div align="center"> 
